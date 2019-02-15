@@ -1,4 +1,4 @@
-baseurl = "http://kutarobo.github.io/growth-diary"
+baseurl = "http://kutarobo.github.io/"
 title = "연습중"
 canonifyurls = true
 paginate = 10
