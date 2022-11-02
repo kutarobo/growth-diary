@@ -1,42 +1,42 @@
 const resource = [
     /* --- CSS --- */
-    '/assets/css/style.css',
+    '/growth-diary/assets/css/style.css',
 
     /* --- PWA --- */
-    '/app.js',
-    '/sw.js',
+    '/growth-diary/app.js',
+    '/growth-diary/sw.js',
 
     /* --- HTML --- */
-    '/index.html',
-    '/404.html',
+    '/growth-diary/index.html',
+    '/growth-diary/404.html',
 
     
-        '/categories/',
+        '/growth-diary/categories/',
     
-        '/tags/',
+        '/growth-diary/tags/',
     
-        '/archives/',
+        '/growth-diary/archives/',
     
-        '/about/',
+        '/growth-diary/about/',
     
 
     /* --- Favicons & compressed JS --- */
     
     
-        '/assets/img/favicons/android-chrome-192x192.png',
-        '/assets/img/favicons/android-chrome-512x512.png',
-        '/assets/img/favicons/apple-touch-icon.png',
-        '/assets/img/favicons/favicon-16x16.png',
-        '/assets/img/favicons/favicon-32x32.png',
-        '/assets/img/favicons/favicon.ico',
-        '/assets/img/favicons/mstile-150x150.png',
-        '/assets/js/dist/categories.min.js',
-        '/assets/js/dist/commons.min.js',
-        '/assets/js/dist/home.min.js',
-        '/assets/js/dist/misc.min.js',
-        '/assets/js/dist/page.min.js',
-        '/assets/js/dist/post.min.js',
-        '/assets/js/dist/pvreport.min.js'
+        '/growth-diary/assets/img/favicons/android-chrome-192x192.png',
+        '/growth-diary/assets/img/favicons/android-chrome-512x512.png',
+        '/growth-diary/assets/img/favicons/apple-touch-icon.png',
+        '/growth-diary/assets/img/favicons/favicon-16x16.png',
+        '/growth-diary/assets/img/favicons/favicon-32x32.png',
+        '/growth-diary/assets/img/favicons/favicon.ico',
+        '/growth-diary/assets/img/favicons/mstile-150x150.png',
+        '/growth-diary/assets/js/dist/categories.min.js',
+        '/growth-diary/assets/js/dist/commons.min.js',
+        '/growth-diary/assets/js/dist/home.min.js',
+        '/growth-diary/assets/js/dist/misc.min.js',
+        '/growth-diary/assets/js/dist/page.min.js',
+        '/growth-diary/assets/js/dist/post.min.js',
+        '/growth-diary/assets/js/dist/pvreport.min.js'
 ];
 
 /* The request url with below domain will be cached */
