@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = git@personal:kutarobo/kutarobo.github.io.git
-	branch = master
